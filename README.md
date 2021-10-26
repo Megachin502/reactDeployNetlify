@@ -8,3 +8,5 @@
 5. Finally, deploy your web app to Netlify by executing:
 ○ netlify deploy
 6. When prompted, select “Create and configure a new site”, name your site and deploy the build directory.
+
+https://reactdeploycpsc2600elvislam.netlify.app/
